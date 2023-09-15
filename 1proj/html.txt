@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--<link rel="icon" type="image/x-icon" href="/images/favicon.ico">-->
+</head>
+
+<body>
+<div>
+- kā izskatās hipersaite: <a>teksts</a> <a><img></a>-->
+href="index.html">Sākums</a> / <a href="pirma.html">Pirmā</a> / <a href="pirma.html">
+<div>
+<img src="img/start png" alt="navigācijas poga ar bultiņu augšā" border="ūpa" width="s3">
+<i--<img src="img/start.png" alt="navigācijas poga ar bultiņu augšā" border="ūpa" width="s3">
+<i--<img src="img/start.png" alt="navigācijas poga ar četrstūru zvaigzni" border="ūpa" width="s3">
+<i--<img src="img/start.png" alt="navigācijas poga ar sešstūru zvaigzni" border="ūpa" width="s3">
+</div>
+</nav>
+</img1 ef>
+<div>
+
+
+-
+
+
+<div>
+Sākums / Pirmā / Otrā
+</div>
+<p>
+
+
+Sākums / Pirmā / Otrā
+</p>
+-->
+
+</div>
+</body>
+</html>
