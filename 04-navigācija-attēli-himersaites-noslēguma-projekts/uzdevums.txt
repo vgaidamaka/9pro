@@ -1,0 +1,1 @@
+Izveidot 3 savā starpā ar hipersaitēm savienotus dokumentus. Katrā ir noformējums: fona attēls, fona krāsa. Skolēns izmanto tagus virsrakstu, rindkopas, attēla ievietošanai
